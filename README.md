@@ -11,9 +11,7 @@ This project is a simple HTML/CSS replica of the Google homepage. It is a static
 
 ## Demo
 
-You can view a live demo of the project [here](#).
-
-![Screenshot](#) 
+You can view a live demo of the project [[here](https://tamilselvan6.github.io/google_design-/)]
 
 ## Features
 - Responsive design for various screen sizes.
